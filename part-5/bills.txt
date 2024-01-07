@@ -1,0 +1,2992 @@
+Order ID: 9000
+Customer Name: Agustin Pavyer
+Address: 90 Commercial Parkway, Kandava, Arizona, 85209, United States
+Phone Number: 300-576-1179
+
+Items:
+Item                                    Quantity  Price     
+Childrens Allergy Relief                16        81.52     
+Actonel                                 12        65.67     
+Thiola                                  40        41.13     
+
+Total: 3737.5599999999995
+==================================================
+Order ID: 9001
+Order Failed
+
+==================================================
+Order ID: 9002
+Customer Name: Ario Plant
+Address: 0 Kingsford Avenue, Pantaihambawang, Arizona, 85206, United States
+Phone Number: 205-742-0348
+
+Items:
+Item                                    Quantity  Price     
+SaniSuds Foam Instant Hand Sanitizer    27        93.02     
+Pumpkin Spice Antibacterial Hand Sanitizer32        41.94     
+
+Total: 3853.62
+==================================================
+Order ID: 9003
+Order Failed
+
+==================================================
+Order ID: 9004
+Order Failed
+
+==================================================
+Order ID: 9005
+Customer Name: Gaby Letty
+Address: 349 Texas Junction, Waihai, Arizona, 85201, United States
+Phone Number: 930-692-3714
+
+Items:
+Item                                    Quantity  Price     
+Neutrogena MoistureShine Lip Soother    11        39.34     
+2 Pack Assured Instant Hand Sanitizer with moisturizers (Vitamin E and aloe)16        76.62     
+
+Total: 1658.66
+==================================================
+Order ID: 9006
+Customer Name: Vassily Renison
+Address: 7881 Daystar Junction, Huangjia, Arizona, 85207, United States
+Phone Number: 757-723-4159
+
+Items:
+Item                                    Quantity  Price     
+Clindamycin Hydrochloride               13        76.29     
+Hydrochlorothiazide                     13        25.14     
+
+Total: 1318.5900000000001
+==================================================
+Order ID: 9007
+Customer Name: Bobine Cancelier
+Address: 65 Clemons Crossing, Angoram, Arizona, 85202, United States
+Phone Number: 154-507-0573
+
+Items:
+Item                                    Quantity  Price     
+Tylenol Arthritis Pain                  1         84.76     
+
+Total: 84.76
+==================================================
+Order ID: 9008
+Order Failed
+
+==================================================
+Order ID: 9009
+Order Failed
+
+==================================================
+Order ID: 9010
+Customer Name: Darb Woollons
+Address: 5664 Forster Plaza, Uzlovaya, Arizona, 85207, United States
+Phone Number: 730-139-8591
+
+Items:
+Item                                    Quantity  Price     
+Effer-K                                 33        70.92     
+Triglide                                21        96.02     
+Berberis Prunus                         15        72.62     
+Lyrica                                  3         24.73     
+
+Total: 5520.2699999999995
+==================================================
+Order ID: 9011
+Customer Name: Aurora Andrichak
+Address: 88861 Rowland Hill, Medaya, Arizona, 85201, United States
+Phone Number: 334-311-8672
+
+Items:
+Item                                    Quantity  Price     
+Hydrochlorothiazide                     14        64.92     
+
+Total: 908.88
+==================================================
+Order ID: 9012
+Customer Name: Tally Kennard
+Address: 509 Namekagon Lane, Barra, Arizona, 85204, United States
+Phone Number: 750-753-0009
+
+Items:
+Item                                    Quantity  Price     
+Tylenol Arthritis Pain                  14        84.76     
+Midazolam Hydrochloride                 4         65.02     
+VIDEX                                   29        23.98     
+
+Total: 2142.14
+==================================================
+Order ID: 9013
+Order Failed
+
+==================================================
+Order ID: 9014
+Order Failed
+
+==================================================
+Order ID: 9015
+Customer Name: Poppy Gerardin
+Address: 0608 Nancy Junction, Cambará, Arizona, 85202, United States
+Phone Number: 183-776-3105
+
+Items:
+Item                                    Quantity  Price     
+ANTI BAC ACNE CLEARING                  31        50.14     
+PULLULARIA PULLULANS                    27        57.7      
+Potassium Chloride                      34        33.41     
+Oxygen                                  6         34.72     
+Cimetidine                              32        97.5      
+
+Total: 7576.499999999999
+==================================================
+Order ID: 9016
+Order Failed
+
+==================================================
+Order ID: 9017
+Order Failed
+
+==================================================
+Order ID: 9018
+Customer Name: Loutitia Pargetter
+Address: 633 Brickson Park Lane, Vihti, Arizona, 85203, United States
+Phone Number: 113-736-7471
+
+Items:
+Item                                    Quantity  Price     
+Clindamycin in 5 Percent Dextrose       26        54.5      
+Ditropan                                10        41.81     
+Methylprednisolone Sodium Succinate     12        36.84     
+
+Total: 2277.18
+==================================================
+Order ID: 9019
+Order Failed
+
+==================================================
+Order ID: 9020
+Order Failed
+
+==================================================
+Order ID: 9021
+Order Failed
+
+==================================================
+Order ID: 9022
+Order Failed
+
+==================================================
+Order ID: 9023
+Customer Name: Nancey Sate
+Address: 9 Logan Road, La Caleta Culebras, Arizona, 85204, United States
+Phone Number: 243-328-0583
+
+Items:
+Item                                    Quantity  Price     
+Bekunis Natures Gentle Laxative Herbal Tea20        52.14     
+levalbuterol hydrochloride              27        42.0      
+Amiodarone HCl                          33        82.51     
+Testosterone Cypionate                  15        99.26     
+procureFirst Aid Antibio                9         97.32     
+
+Total: 7264.410000000001
+==================================================
+Order ID: 9024
+Customer Name: Claudine Whyke
+Address: 813 Merchant Parkway, Harjavalta, Arizona, 85203, United States
+Phone Number: 618-653-3460
+
+Items:
+Item                                    Quantity  Price     
+Fulton Street Market Omeprazole         28        45.71     
+Ditropan                                32        41.81     
+Allopurinol                             24        98.85     
+SaniSuds Foam Instant Hand Sanitizer    33        93.02     
+Methylprednisolone                      23        74.13     
+
+Total: 9764.849999999999
+==================================================
+Order ID: 9025
+Customer Name: Gareth Burnyeat
+Address: 1 Westend Hill, Pasirmadang, Arizona, 85206, United States
+Phone Number: 358-464-1709
+
+Items:
+Item                                    Quantity  Price     
+RETROVIR                                1         85.89     
+Cartilago Argentum Joint Support        39        74.52     
+2 Pack Assured Instant Hand Sanitizer with moisturizers (Vitamin E and aloe)15        76.62     
+Lidocaine Hydrochloride and Epinephrine 2         36.75     
+
+Total: 4214.969999999999
+==================================================
+Order ID: 9026
+Order Failed
+
+==================================================
+Order ID: 9027
+Order Failed
+
+==================================================
+Order ID: 9028
+Order Failed
+
+==================================================
+Order ID: 9029
+Customer Name: Ulrike Haryngton
+Address: 66 Sunfield Trail, Paty do Alferes, Arizona, 85204, United States
+Phone Number: 930-765-1578
+
+Items:
+Item                                    Quantity  Price     
+Otrexup                                 23        38.45     
+Pioglitazone Hydrochloride and Metformin Hydrochloride4         47.62     
+
+Total: 1074.83
+==================================================
+Order ID: 9030
+Order Failed
+
+==================================================
+Order ID: 9031
+Order Failed
+
+==================================================
+Order ID: 9032
+Order Failed
+
+==================================================
+Order ID: 9033
+Order Failed
+
+==================================================
+Order ID: 9034
+Order Failed
+
+==================================================
+Order ID: 9035
+Customer Name: Penrod Meeland
+Address: 1 Hallows Parkway, Layu, Arizona, 85210, United States
+Phone Number: 718-385-7434
+
+Items:
+Item                                    Quantity  Price     
+Hydrochlorothiazide                     17        64.92     
+Aurum 6                                 28        36.06     
+Ditropan                                38        41.81     
+
+Total: 3702.1000000000004
+==================================================
+Order ID: 9036
+Customer Name: Penrod Meeland
+Address: 1 Hallows Parkway, Layu, Arizona, 85210, United States
+Phone Number: 718-385-7434
+
+Items:
+Item                                    Quantity  Price     
+Metronidazole                           4         61.23     
+risperidone                             4         79.95     
+Day Time Night Time Sinus Relief        13        52.6      
+Neutrogena MoistureShine Lip Soother    25        39.34     
+
+Total: 2232.02
+==================================================
+Order ID: 9037
+Order Failed
+
+==================================================
+Order ID: 9038
+Customer Name: Quincy Archdeckne
+Address: 780 Cherokee Pass, Adiaké, Arizona, 85201, United States
+Phone Number: 597-511-4159
+
+Items:
+Item                                    Quantity  Price     
+Top Care                                9         87.06     
+Methylprednisolone                      5         74.13     
+Cimetidine                              3         97.5      
+CLENZIDERM THERAPEUTIC MOISTURIZER      22        88.93     
+Pravastatin Sodium                      1         24.74     
+
+Total: 3427.89
+==================================================
+Order ID: 9039
+Order Failed
+
+==================================================
+Order ID: 9040
+Customer Name: Brunhilda Cissen
+Address: 4449 Grayhawk Street, Soba, Arizona, 85210, United States
+Phone Number: 176-716-0156
+
+Items:
+Item                                    Quantity  Price     
+Severe Congestion and Cough             18        88.56     
+
+Total: 1594.08
+==================================================
+Order ID: 9041
+Customer Name: Sharron Mackriell
+Address: 04 Melody Crossing, Ustupo, Arizona, 85205, United States
+Phone Number: 918-659-5831
+
+Items:
+Item                                    Quantity  Price     
+Actonel                                 15        65.67     
+Midazolam Hydrochloride                 27        65.02     
+
+Total: 2740.59
+==================================================
+Order ID: 9042
+Order Failed
+
+==================================================
+Order ID: 9043
+Customer Name: Theo Wiltshear
+Address: 962 Sommers Court, Baoshan, Arizona, 85201, United States
+Phone Number: 733-220-0756
+
+Items:
+Item                                    Quantity  Price     
+Cartilago Argentum Joint Support        40        74.52     
+Childrens Allergy Relief                23        81.52     
+Medicated Body                          35        56.55     
+Methylprednisolone Sodium Succinate     25        36.84     
+
+Total: 7756.009999999999
+==================================================
+Order ID: 9044
+Customer Name: Casie Wyer
+Address: 921 7th Parkway, Koška, Arizona, 85208, United States
+Phone Number: 135-781-4150
+
+Items:
+Item                                    Quantity  Price     
+Treatment Set TS342155                  40        95.83     
+
+Total: 3833.2
+==================================================
+Order ID: 9045
+Order Failed
+
+==================================================
+Order ID: 9046
+Customer Name: Vassily Renison
+Address: 7881 Daystar Junction, Huangjia, Arizona, 85207, United States
+Phone Number: 757-723-4159
+
+Items:
+Item                                    Quantity  Price     
+ESTRADIOL VALERATE                      14        87.55     
+No7 Lift and Luminate Foundation Sunscreen Broad Spectrum SPF 15 Cool Vanilla13        87.12     
+Kettle Neti Pot                         26        91.47     
+PREDNISONE                              9         79.4      
+Pollens - Grasses, Southern Grass Mix 10th of Concentrate19        73.16     
+
+Total: 6841.12
+==================================================
+Order ID: 9047
+Customer Name: Lavinia Drinkall
+Address: 20 Forest Crossing, Gaoxiang, Arizona, 85203, United States
+Phone Number: 728-859-4753
+
+Items:
+Item                                    Quantity  Price     
+ETHYL ALCOHOL                           15        74.18     
+
+Total: 1112.7
+==================================================
+Order ID: 9048
+Order Failed
+
+==================================================
+Order ID: 9049
+Customer Name: Brunhilda Cissen
+Address: 4449 Grayhawk Street, Soba, Arizona, 85210, United States
+Phone Number: 176-716-0156
+
+Items:
+Item                                    Quantity  Price     
+Ditropan                                37        41.81     
+
+Total: 1546.97
+==================================================
+Order ID: 9050
+Customer Name: Poppy Gerardin
+Address: 0608 Nancy Junction, Cambará, Arizona, 85202, United States
+Phone Number: 183-776-3105
+
+Items:
+Item                                    Quantity  Price     
+Nighttime Sleep Aid                     33        57.32     
+AVAR                                    8         68.38     
+Cold Sore Treatment                     7         62.53     
+Top Care                                40        87.06     
+
+Total: 6358.71
+==================================================
+Order ID: 9051
+Customer Name: Fleming Chown
+Address: 8 Ilene Place, Cipari, Arizona, 85202, United States
+Phone Number: 483-820-5175
+
+Items:
+Item                                    Quantity  Price     
+CALCIUM ACETATE                         34        82.44     
+SaniSuds Foam Instant Hand Sanitizer    26        93.02     
+ESTRADIOL VALERATE                      22        87.55     
+
+Total: 7147.58
+==================================================
+Order ID: 9052
+Order Failed
+
+==================================================
+Order ID: 9053
+Customer Name: Ossie Tryhorn
+Address: 030 Pawling Junction, Inowrocław, Arizona, 85203, United States
+Phone Number: 632-726-3510
+
+Items:
+Item                                    Quantity  Price     
+Pravastatin Sodium                      31        24.74     
+Cimetidine                              31        97.5      
+
+Total: 3789.44
+==================================================
+Order ID: 9054
+Customer Name: Leisha Troucher
+Address: 602 Old Gate Park, Néos Mylótopos, Arizona, 85207, United States
+Phone Number: 275-433-7259
+
+Items:
+Item                                    Quantity  Price     
+Ampicillin                              28        69.79     
+
+Total: 1954.1200000000001
+==================================================
+Order ID: 9055
+Order Failed
+
+==================================================
+Order ID: 9056
+Order Failed
+
+==================================================
+Order ID: 9057
+Order Failed
+
+==================================================
+Order ID: 9058
+Order Failed
+
+==================================================
+Order ID: 9059
+Customer Name: Poppy Gerardin
+Address: 0608 Nancy Junction, Cambará, Arizona, 85202, United States
+Phone Number: 183-776-3105
+
+Items:
+Item                                    Quantity  Price     
+Pollens - Grasses, Southern Grass Mix 10th of Concentrate37        73.16     
+
+Total: 2706.92
+==================================================
+Order ID: 9060
+Order Failed
+
+==================================================
+Order ID: 9061
+Order Failed
+
+==================================================
+Order ID: 9062
+Order Failed
+
+==================================================
+Order ID: 9063
+Customer Name: Gussy Yurkevich
+Address: 0224 Browning Point, Hotonj, Arizona, 85207, United States
+Phone Number: 348-936-7510
+
+Items:
+Item                                    Quantity  Price     
+PREZISTA                                13        75.99     
+Ditropan                                15        41.81     
+ONDANSETRON                             4         25.94     
+
+Total: 1718.78
+==================================================
+Order ID: 9064
+Order Failed
+
+==================================================
+Order ID: 9065
+Customer Name: Loren Barszczewski
+Address: 310 Crest Line Park, Yegorlykskaya, Arizona, 85210, United States
+Phone Number: 754-402-8558
+
+Items:
+Item                                    Quantity  Price     
+Methylprednisolone Sodium Succinate     6         36.84     
+
+Total: 221.04000000000002
+==================================================
+Order ID: 9066
+Order Failed
+
+==================================================
+Order ID: 9067
+Order Failed
+
+==================================================
+Order ID: 9068
+Customer Name: Rhodia Caldes
+Address: 2 Hanson Drive, Baton Rouge, Arizona, 85201, United States
+Phone Number: 225-671-0158
+
+Items:
+Item                                    Quantity  Price     
+Potassium Chloride                      2         33.41     
+Methylprednisolone                      31        74.13     
+Indomethacin                            5         26.34     
+Omeprazole                              10        22.44     
+
+Total: 2720.95
+==================================================
+Order ID: 9069
+Order Failed
+
+==================================================
+Order ID: 9070
+Customer Name: Raleigh Grastye
+Address: 782 Glendale Court, Atap, Arizona, 85205, United States
+Phone Number: 880-645-8659
+
+Items:
+Item                                    Quantity  Price     
+Medicated Body                          38        56.55     
+Amiodarone HCl                          11        82.51     
+FEXOFENADINE HYDROCHLORIDE              16        58.98     
+
+Total: 4000.19
+==================================================
+Order ID: 9071
+Order Failed
+
+==================================================
+Order ID: 9072
+Order Failed
+
+==================================================
+Order ID: 9073
+Customer Name: Christiane Cosens
+Address: 638 Little Fleur Trail, Gongju, Arizona, 85203, United States
+Phone Number: 217-178-5640
+
+Items:
+Item                                    Quantity  Price     
+Duloxetine                              36        67.8      
+
+Total: 2440.7999999999997
+==================================================
+Order ID: 9074
+Customer Name: Casie Wyer
+Address: 921 7th Parkway, Koška, Arizona, 85208, United States
+Phone Number: 135-781-4150
+
+Items:
+Item                                    Quantity  Price     
+Childrens Allergy Relief                8         81.52     
+risperidone                             36        79.95     
+
+Total: 3530.36
+==================================================
+Order ID: 9075
+Order Failed
+
+==================================================
+Order ID: 9076
+Order Failed
+
+==================================================
+Order ID: 9077
+Customer Name: Dix Genever
+Address: 37 Dixon Park, Wanshan, Arizona, 85205, United States
+Phone Number: 775-135-7679
+
+Items:
+Item                                    Quantity  Price     
+Cartilago Argentum Joint Support        38        74.52     
+Amazonian Colored Clay Foundation Broad Spectrum SPF 15 Sunscreen14        54.56     
+Treatment Set TS333177                  10        46.44     
+
+Total: 4060.0
+==================================================
+Order ID: 9078
+Order Failed
+
+==================================================
+Order ID: 9079
+Order Failed
+
+==================================================
+Order ID: 9080
+Order Failed
+
+==================================================
+Order ID: 9081
+Order Failed
+
+==================================================
+Order ID: 9082
+Order Failed
+
+==================================================
+Order ID: 9083
+Order Failed
+
+==================================================
+Order ID: 9084
+Order Failed
+
+==================================================
+Order ID: 9085
+Order Failed
+
+==================================================
+Order ID: 9086
+Order Failed
+
+==================================================
+Order ID: 9087
+Customer Name: Teddy Colbourn
+Address: 85 Hollow Ridge Drive, Puor, Arizona, 85205, United States
+Phone Number: 358-506-8379
+
+Items:
+Item                                    Quantity  Price     
+Hydrochlorothiazide                     32        64.92     
+Methylprednisolone Sodium Succinate     21        36.84     
+age renewal firming and hydrating moisturizer22        43.47     
+
+Total: 3807.42
+==================================================
+Order ID: 9088
+Order Failed
+
+==================================================
+Order ID: 9089
+Order Failed
+
+==================================================
+Order ID: 9090
+Customer Name: Felicle Conradie
+Address: 08 Old Shore Parkway, Pondaguitan, Arizona, 85203, United States
+Phone Number: 590-791-5308
+
+Items:
+Item                                    Quantity  Price     
+FEXOFENADINE HYDROCHLORIDE              18        58.98     
+Paclitaxel                              37        23.2      
+ETHYL ALCOHOL                           3         74.18     
+Metronidazole                           23        74.74     
+levalbuterol hydrochloride              10        42.0      
+
+Total: 4281.6
+==================================================
+Order ID: 9091
+Customer Name: Kenton Woffinden
+Address: 77727 Bluejay Parkway, Strellc i Ulët, Arizona, 85210, United States
+Phone Number: 356-582-6841
+
+Items:
+Item                                    Quantity  Price     
+Famciclovir                             14        26.94     
+Bekunis Natures Gentle Laxative Herbal Tea21        52.14     
+Pumpkin Spice Antibacterial Hand Sanitizer40        41.94     
+Top Care                                23        87.06     
+Methylprednisolone                      26        74.13     
+
+Total: 7079.46
+==================================================
+Order ID: 9092
+Order Failed
+
+==================================================
+Order ID: 9093
+Customer Name: Klaus Brayson
+Address: 32204 Bobwhite Place, Bahaodi, Arizona, 85208, United States
+Phone Number: 688-273-6629
+
+Items:
+Item                                    Quantity  Price     
+Day Time Night Time Sinus Relief        5         52.6      
+Pumpkin Spice Antibacterial Hand Sanitizer23        41.94     
+Tylenol Arthritis Pain                  39        84.76     
+ANTI BAC ACNE CLEARING                  39        50.14     
+
+Total: 6488.72
+==================================================
+Order ID: 9094
+Order Failed
+
+==================================================
+Order ID: 9095
+Order Failed
+
+==================================================
+Order ID: 9096
+Order Failed
+
+==================================================
+Order ID: 9097
+Order Failed
+
+==================================================
+Order ID: 9098
+Order Failed
+
+==================================================
+Order ID: 9099
+Order Failed
+
+==================================================
+Order ID: 9100
+Order Failed
+
+==================================================
+Order ID: 9101
+Order Failed
+
+==================================================
+Order ID: 9102
+Customer Name: Vanna Brough
+Address: 234 Comanche Place, Obudu, Arizona, 85203, United States
+Phone Number: 663-570-6928
+
+Items:
+Item                                    Quantity  Price     
+Indomethacin                            31        26.34     
+Severe Congestion and Cough             5         88.56     
+
+Total: 1259.34
+==================================================
+Order ID: 9103
+Order Failed
+
+==================================================
+Order ID: 9104
+Customer Name: Fernanda Inns
+Address: 9532 Daystar Park, Sidoaji, Arizona, 85210, United States
+Phone Number: 926-409-0198
+
+Items:
+Item                                    Quantity  Price     
+Lyrica                                  26        24.73     
+
+Total: 642.98
+==================================================
+Order ID: 9105
+Order Failed
+
+==================================================
+Order ID: 9106
+Customer Name: Carolee Lunn
+Address: 47 Buhler Trail, Syntul, Arizona, 85209, United States
+Phone Number: 329-416-8964
+
+Items:
+Item                                    Quantity  Price     
+Top Care                                9         87.06     
+Neutrogena MoistureShine Lip Soother    37        39.34     
+Lisinopril                              8         36.63     
+levalbuterol hydrochloride              36        42.0      
+
+Total: 4044.16
+==================================================
+Order ID: 9107
+Order Failed
+
+==================================================
+Order ID: 9108
+Order Failed
+
+==================================================
+Order ID: 9109
+Order Failed
+
+==================================================
+Order ID: 9110
+Order Failed
+
+==================================================
+Order ID: 9111
+Customer Name: Joyce Froom
+Address: 63653 Dorton Circle, Independence, Arizona, 85207, United States
+Phone Number: 816-424-4699
+
+Items:
+Item                                    Quantity  Price     
+LBEL                                    12        82.86     
+Pollens - Grasses, Southern Grass Mix 10th of Concentrate29        73.16     
+Duloxetine                              36        67.8      
+
+Total: 5556.76
+==================================================
+Order ID: 9112
+Order Failed
+
+==================================================
+Order ID: 9113
+Customer Name: Casie Wyer
+Address: 921 7th Parkway, Koška, Arizona, 85208, United States
+Phone Number: 135-781-4150
+
+Items:
+Item                                    Quantity  Price     
+age renewal firming and hydrating moisturizer36        43.47     
+Otrexup                                 8         38.45     
+Pollens - Grasses, Southern Grass Mix 10th of Concentrate4         73.16     
+
+Total: 2165.16
+==================================================
+Order ID: 9114
+Order Failed
+
+==================================================
+Order ID: 9115
+Order Failed
+
+==================================================
+Order ID: 9116
+Order Failed
+
+==================================================
+Order ID: 9117
+Order Failed
+
+==================================================
+Order ID: 9118
+Order Failed
+
+==================================================
+Order ID: 9119
+Customer Name: Rurik Mavin
+Address: 2766 Elmside Road, Bojawa, Arizona, 85207, United States
+Phone Number: 271-753-2037
+
+Items:
+Item                                    Quantity  Price     
+smart sense allergy and congestion relief39        70.48     
+Nizatidine                              10        62.38     
+
+Total: 3372.5200000000004
+==================================================
+Order ID: 9120
+Order Failed
+
+==================================================
+Order ID: 9121
+Order Failed
+
+==================================================
+Order ID: 9122
+Order Failed
+
+==================================================
+Order ID: 9123
+Order Failed
+
+==================================================
+Order ID: 9124
+Customer Name: Henderson Swigger
+Address: 82211 Eliot Park, Muhur, Arizona, 85210, United States
+Phone Number: 851-395-4288
+
+Items:
+Item                                    Quantity  Price     
+Bekunis Natures Gentle Laxative Herbal Tea13        52.14     
+
+Total: 677.82
+==================================================
+Order ID: 9125
+Customer Name: Georgena Howlett
+Address: 784 Lyons Hill, Hodošan, Arizona, 85205, United States
+Phone Number: 893-405-2652
+
+Items:
+Item                                    Quantity  Price     
+Neuro                                   14        64.77     
+SaniSuds Foam Instant Hand Sanitizer    40        93.02     
+Lidocaine Hydrochloride and Epinephrine 10        36.75     
+Likewise Facial Moisturizer - Sun Protectant SPF 50 Normal to Oily Skin21        77.75     
+
+Total: 6627.83
+==================================================
+Order ID: 9126
+Customer Name: Ario Plant
+Address: 0 Kingsford Avenue, Pantaihambawang, Arizona, 85206, United States
+Phone Number: 205-742-0348
+
+Items:
+Item                                    Quantity  Price     
+Pioglitazone Hydrochloride and Metformin Hydrochloride25        47.62     
+LBEL                                    38        82.86     
+ETHYL ALCOHOL                           34        74.18     
+
+Total: 6861.300000000001
+==================================================
+Order ID: 9127
+Customer Name: Tally Kennard
+Address: 509 Namekagon Lane, Barra, Arizona, 85204, United States
+Phone Number: 750-753-0009
+
+Items:
+Item                                    Quantity  Price     
+Childrens Allergy Relief                14        81.52     
+Pioglitazone Hydrochloride and Metformin Hydrochloride11        47.62     
+FEXOFENADINE HYDROCHLORIDE              27        58.98     
+
+Total: 3257.5599999999995
+==================================================
+Order ID: 9128
+Customer Name: Conni Kimmerling
+Address: 1415 Ridgeway Trail, Dungkek Laok, Arizona, 85205, United States
+Phone Number: 882-276-9260
+
+Items:
+Item                                    Quantity  Price     
+CALCIUM ACETATE                         20        82.44     
+
+Total: 1648.8
+==================================================
+Order ID: 9129
+Customer Name: Dix Genever
+Address: 37 Dixon Park, Wanshan, Arizona, 85205, United States
+Phone Number: 775-135-7679
+
+Items:
+Item                                    Quantity  Price     
+CLENZIDERM THERAPEUTIC MOISTURIZER      1         88.93     
+Cartilago Argentum Joint Support        24        74.52     
+Metronidazole                           38        61.23     
+AVAR                                    9         68.38     
+Bekunis Natures Gentle Laxative Herbal Tea12        52.14     
+
+Total: 5445.25
+==================================================
+Order ID: 9130
+Customer Name: Sharron Mackriell
+Address: 04 Melody Crossing, Ustupo, Arizona, 85205, United States
+Phone Number: 918-659-5831
+
+Items:
+Item                                    Quantity  Price     
+Promethazine hydrochloride and phenylephrine hydrochloride22        30.31     
+ADRENAL ENERGY                          14        77.1      
+
+Total: 1746.2199999999998
+==================================================
+Order ID: 9131
+Order Failed
+
+==================================================
+Order ID: 9132
+Order Failed
+
+==================================================
+Order ID: 9133
+Order Failed
+
+==================================================
+Order ID: 9134
+Customer Name: Brunhilda Cissen
+Address: 4449 Grayhawk Street, Soba, Arizona, 85210, United States
+Phone Number: 176-716-0156
+
+Items:
+Item                                    Quantity  Price     
+Testosterone Cypionate                  28        99.26     
+Fulton Street Market Omeprazole         6         45.71     
+
+Total: 3053.54
+==================================================
+Order ID: 9135
+Order Failed
+
+==================================================
+Order ID: 9136
+Customer Name: Ario Plant
+Address: 0 Kingsford Avenue, Pantaihambawang, Arizona, 85206, United States
+Phone Number: 205-742-0348
+
+Items:
+Item                                    Quantity  Price     
+Oxycodone and Acetaminophen             29        40.1      
+Ampicillin                              35        69.79     
+Bekunis Natures Gentle Laxative Herbal Tea6         52.14     
+Effer-K                                 6         70.92     
+Medicated Body                          11        56.55     
+
+Total: 4965.96
+==================================================
+Order ID: 9137
+Order Failed
+
+==================================================
+Order ID: 9138
+Customer Name: Montague Dran
+Address: 285 Toban Place, Jinji, Arizona, 85208, United States
+Phone Number: 288-840-9315
+
+Items:
+Item                                    Quantity  Price     
+ONDANSETRON                             9         25.94     
+Likewise Facial Moisturizer - Sun Protectant SPF 50 Normal to Oily Skin14        77.75     
+CALCIUM ACETATE                         16        82.44     
+
+Total: 2641.0
+==================================================
+Order ID: 9139
+Order Failed
+
+==================================================
+Order ID: 9140
+Order Failed
+
+==================================================
+Order ID: 9141
+Order Failed
+
+==================================================
+Order ID: 9142
+Order Failed
+
+==================================================
+Order ID: 9143
+Order Failed
+
+==================================================
+Order ID: 9144
+Customer Name: Loren Barszczewski
+Address: 310 Crest Line Park, Yegorlykskaya, Arizona, 85210, United States
+Phone Number: 754-402-8558
+
+Items:
+Item                                    Quantity  Price     
+No7 Lift and Luminate Foundation Sunscreen Broad Spectrum SPF 15 Cool Vanilla21        87.12     
+
+Total: 1829.52
+==================================================
+Order ID: 9145
+Customer Name: Rhodia Caldes
+Address: 2 Hanson Drive, Baton Rouge, Arizona, 85201, United States
+Phone Number: 225-671-0158
+
+Items:
+Item                                    Quantity  Price     
+LBEL                                    35        82.86     
+
+Total: 2900.1
+==================================================
+Order ID: 9146
+Customer Name: Ermina Guilder
+Address: 009 Kedzie Circle, Sitovo, Arizona, 85209, United States
+Phone Number: 244-598-6246
+
+Items:
+Item                                    Quantity  Price     
+FEXOFENADINE HYDROCHLORIDE              17        58.98     
+Treatment Set TS329161                  9         72.0      
+Allopurinol                             21        98.85     
+Kettle Neti Pot                         3         91.47     
+
+Total: 4000.9199999999996
+==================================================
+Order ID: 9147
+Customer Name: Dasie Bulle
+Address: 0 Canary Crossing, Concepcion, Arizona, 85209, United States
+Phone Number: 877-484-3990
+
+Items:
+Item                                    Quantity  Price     
+VIDEX                                   12        23.98     
+Cartilago Argentum Joint Support        37        74.52     
+Hydrocortisone                          1         95.14     
+Top Care                                19        87.06     
+
+Total: 4794.28
+==================================================
+Order ID: 9148
+Order Failed
+
+==================================================
+Order ID: 9149
+Customer Name: Ivory Eddowes
+Address: 06329 Reindahl Hill, Tinawagan, Arizona, 85206, United States
+Phone Number: 858-547-2520
+
+Items:
+Item                                    Quantity  Price     
+Duloxetine                              12        67.8      
+PREDNISONE                              28        79.4      
+Sulwhasoo                               12        96.91     
+
+Total: 4199.72
+==================================================
+Order ID: 9150
+Order Failed
+
+==================================================
+Order ID: 9151
+Order Failed
+
+==================================================
+Order ID: 9152
+Order Failed
+
+==================================================
+Order ID: 9153
+Order Failed
+
+==================================================
+Order ID: 9154
+Order Failed
+
+==================================================
+Order ID: 9155
+Customer Name: Jannel Couvert
+Address: 1 Linden Drive, Stoszowice, Arizona, 85202, United States
+Phone Number: 644-685-5894
+
+Items:
+Item                                    Quantity  Price     
+ESTRADIOL VALERATE                      12        87.55     
+Cimetidine                              29        97.5      
+Neutrogena MoistureShine Lip Soother    22        39.34     
+Treatment Set TS342155                  22        95.83     
+
+Total: 6851.84
+==================================================
+Order ID: 9156
+Customer Name: Penrod Meeland
+Address: 1 Hallows Parkway, Layu, Arizona, 85210, United States
+Phone Number: 718-385-7434
+
+Items:
+Item                                    Quantity  Price     
+Pumpkin Spice Antibacterial Hand Sanitizer12        41.94     
+
+Total: 503.28
+==================================================
+Order ID: 9157
+Customer Name: Susann Wickendon
+Address: 8 Little Fleur Court, Bimbo, Arizona, 85203, United States
+Phone Number: 924-282-8596
+
+Items:
+Item                                    Quantity  Price     
+Ciprofloxacin Hydrochloride             15        86.38     
+Sulwhasoo                               40        96.91     
+AZITHROMYCIN                            4         84.63     
+Fulton Street Market Omeprazole         19        45.71     
+
+Total: 6379.109999999999
+==================================================
+Order ID: 9158
+Order Failed
+
+==================================================
+Order ID: 9159
+Order Failed
+
+==================================================
+Order ID: 9160
+Order Failed
+
+==================================================
+Order ID: 9161
+Order Failed
+
+==================================================
+Order ID: 9162
+Order Failed
+
+==================================================
+Order ID: 9163
+Customer Name: Jeffrey Iwanczyk
+Address: 228 Jackson Court, Ḑawrān ad Daydah, Arizona, 85206, United States
+Phone Number: 149-626-3646
+
+Items:
+Item                                    Quantity  Price     
+Hydrocortisone                          27        95.14     
+LBEL                                    24        82.86     
+VIDEX                                   8         23.98     
+Midazolam Hydrochloride                 25        65.02     
+Severe Congestion and Cough             1         88.56     
+
+Total: 6463.320000000001
+==================================================
+Order ID: 9164
+Order Failed
+
+==================================================
+Order ID: 9165
+Customer Name: Antoni Pryell
+Address: 78459 Valley Edge Circle, Samdo, Arizona, 85207, United States
+Phone Number: 170-411-7511
+
+Items:
+Item                                    Quantity  Price     
+Triglide                                4         96.02     
+CLENZIDERM THERAPEUTIC MOISTURIZER      35        88.93     
+Oxycodone and Acetaminophen             12        40.1      
+Hydrocortisone                          39        95.14     
+
+Total: 7688.29
+==================================================
+Order ID: 9166
+Order Failed
+
+==================================================
+Order ID: 9167
+Order Failed
+
+==================================================
+Order ID: 9168
+Order Failed
+
+==================================================
+Order ID: 9169
+Customer Name: Casie Wyer
+Address: 921 7th Parkway, Koška, Arizona, 85208, United States
+Phone Number: 135-781-4150
+
+Items:
+Item                                    Quantity  Price     
+Day Time Night Time Sinus Relief        3         52.6      
+ONDANSETRON                             13        25.94     
+CALCIUM ACETATE                         9         82.44     
+
+Total: 1236.98
+==================================================
+Order ID: 9170
+Order Failed
+
+==================================================
+Order ID: 9171
+Order Failed
+
+==================================================
+Order ID: 9172
+Order Failed
+
+==================================================
+Order ID: 9173
+Order Failed
+
+==================================================
+Order ID: 9174
+Customer Name: Cassy Andrich
+Address: 7792 Bartillon Lane, Barakani, Arizona, 85207, United States
+Phone Number: 331-942-1318
+
+Items:
+Item                                    Quantity  Price     
+Clonidine                               28        82.76     
+Oxycodone and Acetaminophen             25        40.1      
+Tylenol Arthritis Pain                  2         84.76     
+
+Total: 3489.3
+==================================================
+Order ID: 9175
+Customer Name: Ree Berkley
+Address: 21 Almo Plaza, Kyshtym, Arizona, 85209, United States
+Phone Number: 840-709-5491
+
+Items:
+Item                                    Quantity  Price     
+Testosterone Cypionate                  6         99.26     
+Pollens - Grasses, Southern Grass Mix 10th of Concentrate30        73.16     
+SaniSuds Foam Instant Hand Sanitizer    26        93.02     
+Duloxetine                              33        67.8      
+
+Total: 7446.279999999999
+==================================================
+Order ID: 9176
+Customer Name: Berkeley Letson
+Address: 73 Mcguire Hill, Mallow, Arizona, 85204, United States
+Phone Number: 751-735-3395
+
+Items:
+Item                                    Quantity  Price     
+age renewal firming and hydrating moisturizer35        43.47     
+ETHYL ALCOHOL                           21        74.18     
+Cartilago Argentum Joint Support        27        74.52     
+Green Guard Stomach Relief              25        95.36     
+VIDEX                                   27        23.98     
+
+Total: 8122.7300000000005
+==================================================
+Order ID: 9177
+Order Failed
+
+==================================================
+Order ID: 9178
+Customer Name: Virginia Oller
+Address: 83 Meadow Ridge Alley, San Francisco, Arizona, 85204, United States
+Phone Number: 562-977-1363
+
+Items:
+Item                                    Quantity  Price     
+Metronidazole                           28        61.23     
+Nizatidine                              12        62.38     
+2 Pack Assured Instant Hand Sanitizer with moisturizers (Vitamin E and aloe)13        76.62     
+Cimetidine                              14        97.5      
+Clearly It                              39        47.7      
+
+Total: 6684.36
+==================================================
+Order ID: 9179
+Order Failed
+
+==================================================
+Order ID: 9180
+Order Failed
+
+==================================================
+Order ID: 9181
+Customer Name: Jeffrey Iwanczyk
+Address: 228 Jackson Court, Ḑawrān ad Daydah, Arizona, 85206, United States
+Phone Number: 149-626-3646
+
+Items:
+Item                                    Quantity  Price     
+Green Guard Stomach Relief              9         95.36     
+Likewise Facial Moisturizer - Sun Protectant SPF 50 Normal to Oily Skin15        77.75     
+Neutrogena MoistureShine Lip Soother    25        39.34     
+Severe Congestion and Cough             23        88.56     
+
+Total: 5044.870000000001
+==================================================
+Order ID: 9182
+Order Failed
+
+==================================================
+Order ID: 9183
+Customer Name: Claudine Whyke
+Address: 813 Merchant Parkway, Harjavalta, Arizona, 85203, United States
+Phone Number: 618-653-3460
+
+Items:
+Item                                    Quantity  Price     
+Ciprofloxacin Hydrochloride             16        86.38     
+Childrens Allergy Relief                10        81.52     
+
+Total: 2197.2799999999997
+==================================================
+Order ID: 9184
+Order Failed
+
+==================================================
+Order ID: 9185
+Order Failed
+
+==================================================
+Order ID: 9186
+Order Failed
+
+==================================================
+Order ID: 9187
+Customer Name: Jeffrey Iwanczyk
+Address: 228 Jackson Court, Ḑawrān ad Daydah, Arizona, 85206, United States
+Phone Number: 149-626-3646
+
+Items:
+Item                                    Quantity  Price     
+LBEL                                    36        82.86     
+Ditropan                                33        41.81     
+Actonel                                 39        65.67     
+Clindamycin Hydrochloride               10        76.29     
+CLENZIDERM THERAPEUTIC MOISTURIZER      10        88.93     
+
+Total: 8576.02
+==================================================
+Order ID: 9188
+Order Failed
+
+==================================================
+Order ID: 9189
+Customer Name: Panchito Matz
+Address: 87246 Riverside Lane, Antalaha, Arizona, 85210, United States
+Phone Number: 901-917-0708
+
+Items:
+Item                                    Quantity  Price     
+Pollens - Grasses, Southern Grass Mix 10th of Concentrate29        73.16     
+PULLULARIA PULLULANS                    18        57.7      
+esika                                   38        53.08     
+Amiodarone HCl                          24        82.51     
+
+Total: 7157.52
+==================================================
+Order ID: 9190
+Customer Name: Floyd Copplestone
+Address: 2 Roth Drive, Azovo, Arizona, 85202, United States
+Phone Number: 143-109-4326
+
+Items:
+Item                                    Quantity  Price     
+Indomethacin                            38        26.34     
+Ampicillin                              6         69.79     
+
+Total: 1419.6599999999999
+==================================================
+Order ID: 9191
+Order Failed
+
+==================================================
+Order ID: 9192
+Order Failed
+
+==================================================
+Order ID: 9193
+Customer Name: Corella Excell
+Address: 04 Arrowood Way, Taupo, Arizona, 85207, United States
+Phone Number: 847-686-9184
+
+Items:
+Item                                    Quantity  Price     
+Allopurinol                             22        98.85     
+ADRENAL ENERGY                          11        77.1      
+
+Total: 3022.7999999999997
+==================================================
+Order ID: 9194
+Customer Name: Corella Excell
+Address: 04 Arrowood Way, Taupo, Arizona, 85207, United States
+Phone Number: 847-686-9184
+
+Items:
+Item                                    Quantity  Price     
+Oxygen                                  24        34.72     
+Midazolam Hydrochloride                 13        65.02     
+Famciclovir                             33        26.94     
+
+Total: 2567.56
+==================================================
+Order ID: 9195
+Order Failed
+
+==================================================
+Order ID: 9196
+Order Failed
+
+==================================================
+Order ID: 9197
+Customer Name: Ashly Whitebrook
+Address: 68609 Scofield Crossing, Puerto Quijarro, Arizona, 85210, United States
+Phone Number: 617-213-9072
+
+Items:
+Item                                    Quantity  Price     
+Effer-K                                 29        70.92     
+Thiola                                  35        41.13     
+Testosterone Cypionate                  20        99.26     
+
+Total: 5481.43
+==================================================
+Order ID: 9198
+Order Failed
+
+==================================================
+Order ID: 9199
+Order Failed
+
+==================================================
+Order ID: 9200
+Customer Name: Haskell Langfat
+Address: 65023 Dunning Park, Duwakbuter, Arizona, 85204, United States
+Phone Number: 361-556-0394
+
+Items:
+Item                                    Quantity  Price     
+Amazonian Colored Clay Foundation Broad Spectrum SPF 15 Sunscreen16        54.56     
+
+Total: 872.96
+==================================================
+Order ID: 9201
+Order Failed
+
+==================================================
+Order ID: 9202
+Order Failed
+
+==================================================
+Order ID: 9203
+Order Failed
+
+==================================================
+Order ID: 9204
+Order Failed
+
+==================================================
+Order ID: 9205
+Customer Name: Joyce Froom
+Address: 63653 Dorton Circle, Independence, Arizona, 85207, United States
+Phone Number: 816-424-4699
+
+Items:
+Item                                    Quantity  Price     
+Cartilago Argentum Joint Support        13        74.52     
+LBEL                                    33        82.86     
+
+Total: 3703.1400000000003
+==================================================
+Order ID: 9206
+Order Failed
+
+==================================================
+Order ID: 9207
+Order Failed
+
+==================================================
+Order ID: 9208
+Order Failed
+
+==================================================
+Order ID: 9209
+Customer Name: Jeromy D'Onisi
+Address: 6406 Ilene Lane, Dobra, Arizona, 85207, United States
+Phone Number: 585-395-9440
+
+Items:
+Item                                    Quantity  Price     
+Clindamycin in 5 Percent Dextrose       8         54.5      
+Ampicillin                              35        69.79     
+
+Total: 2878.65
+==================================================
+Order ID: 9210
+Order Failed
+
+==================================================
+Order ID: 9211
+Order Failed
+
+==================================================
+Order ID: 9212
+Order Failed
+
+==================================================
+Order ID: 9213
+Order Failed
+
+==================================================
+Order ID: 9214
+Customer Name: Ammamaria Fidilis
+Address: 97460 Village Place, Bugang, Arizona, 85208, United States
+Phone Number: 749-364-4539
+
+Items:
+Item                                    Quantity  Price     
+Lidocaine Hydrochloride and Epinephrine 28        36.75     
+Pollens - Grasses, Southern Grass Mix 10th of Concentrate12        73.16     
+
+Total: 1906.92
+==================================================
+Order ID: 9215
+Customer Name: Teddy Colbourn
+Address: 85 Hollow Ridge Drive, Puor, Arizona, 85205, United States
+Phone Number: 358-506-8379
+
+Items:
+Item                                    Quantity  Price     
+Top Care                                20        87.06     
+Amazonian Colored Clay Foundation Broad Spectrum SPF 15 Sunscreen12        54.56     
+Metronidazole                           1         74.74     
+Pravastatin Sodium                      8         24.74     
+
+Total: 2668.58
+==================================================
+Order ID: 9216
+Order Failed
+
+==================================================
+Order ID: 9217
+Customer Name: Felicle Conradie
+Address: 08 Old Shore Parkway, Pondaguitan, Arizona, 85203, United States
+Phone Number: 590-791-5308
+
+Items:
+Item                                    Quantity  Price     
+Amazonian Colored Clay Foundation Broad Spectrum SPF 15 Sunscreen29        54.56     
+
+Total: 1582.24
+==================================================
+Order ID: 9218
+Order Failed
+
+==================================================
+Order ID: 9219
+Customer Name: Kara Ector
+Address: 88546 Esker Point, Três Coroas, Arizona, 85208, United States
+Phone Number: 601-596-2917
+
+Items:
+Item                                    Quantity  Price     
+CLENZIDERM THERAPEUTIC MOISTURIZER      18        88.93     
+esika                                   33        53.08     
+Childrens Allergy Relief                37        81.52     
+Liothyronine sodium                     27        87.5      
+Neuro                                   22        64.77     
+
+Total: 10156.06
+==================================================
+Order ID: 9220
+Order Failed
+
+==================================================
+Order ID: 9221
+Order Failed
+
+==================================================
+Order ID: 9222
+Order Failed
+
+==================================================
+Order ID: 9223
+Order Failed
+
+==================================================
+Order ID: 9224
+Customer Name: Berkeley Letson
+Address: 73 Mcguire Hill, Mallow, Arizona, 85204, United States
+Phone Number: 751-735-3395
+
+Items:
+Item                                    Quantity  Price     
+Pollens - Grasses, Southern Grass Mix 10th of Concentrate8         73.16     
+Cartilago Argentum Joint Support        22        74.52     
+
+Total: 2224.72
+==================================================
+Order ID: 9225
+Order Failed
+
+==================================================
+Order ID: 9226
+Order Failed
+
+==================================================
+Order ID: 9227
+Customer Name: Corella Excell
+Address: 04 Arrowood Way, Taupo, Arizona, 85207, United States
+Phone Number: 847-686-9184
+
+Items:
+Item                                    Quantity  Price     
+Amiodarone HCl                          8         82.51     
+
+Total: 660.08
+==================================================
+Order ID: 9228
+Order Failed
+
+==================================================
+Order ID: 9229
+Customer Name: Rani Pagelsen
+Address: 4 Leroy Avenue, Yambrasbamba, Arizona, 85210, United States
+Phone Number: 796-494-3893
+
+Items:
+Item                                    Quantity  Price     
+Famciclovir                             13        26.94     
+Clopidogrel Bisulfate                   17        89.33     
+Omeprazole                              21        22.44     
+Hydrocortisone                          34        95.14     
+
+Total: 5574.83
+==================================================
+Order ID: 9230
+Order Failed
+
+==================================================
+Order ID: 9231
+Order Failed
+
+==================================================
+Order ID: 9232
+Customer Name: Berny Oldis
+Address: 62008 Del Sol Point, Haridimun, Arizona, 85204, United States
+Phone Number: 967-670-5860
+
+Items:
+Item                                    Quantity  Price     
+Medicated Body                          30        56.55     
+Day Time Night Time Sinus Relief        34        52.6      
+
+Total: 3484.9
+==================================================
+Order ID: 9233
+Order Failed
+
+==================================================
+Order ID: 9234
+Order Failed
+
+==================================================
+Order ID: 9235
+Customer Name: Klaus Brayson
+Address: 32204 Bobwhite Place, Bahaodi, Arizona, 85208, United States
+Phone Number: 688-273-6629
+
+Items:
+Item                                    Quantity  Price     
+PULLULARIA PULLULANS                    35        57.7      
+AZITHROMYCIN                            40        84.63     
+Cartilago Argentum Joint Support        18        74.52     
+PULLULARIA PULLULANS                    15        57.7      
+Indomethacin                            7         26.34     
+
+Total: 7795.94
+==================================================
+Order ID: 9236
+Customer Name: Teddy Colbourn
+Address: 85 Hollow Ridge Drive, Puor, Arizona, 85205, United States
+Phone Number: 358-506-8379
+
+Items:
+Item                                    Quantity  Price     
+CALCIUM ACETATE                         9         82.44     
+Day Time Night Time Sinus Relief        36        52.6      
+Childrens Allergy Relief                33        81.52     
+Ampicillin                              11        69.79     
+
+Total: 6093.41
+==================================================
+Order ID: 9237
+Order Failed
+
+==================================================
+Order ID: 9238
+Order Failed
+
+==================================================
+Order ID: 9239
+Customer Name: Ches Croy
+Address: 79 Sachs Avenue, Marāveh Tappeh, Arizona, 85204, United States
+Phone Number: 593-122-5672
+
+Items:
+Item                                    Quantity  Price     
+No7 Lift and Luminate Foundation Sunscreen Broad Spectrum SPF 15 Cool Vanilla4         87.12     
+POPULUS DELTOIDES SSP MONILIFERA POLLEN 15        46.73     
+POPULUS DELTOIDES SSP MONILIFERA POLLEN 32        46.73     
+Metronidazole                           25        61.23     
+Illusion Tinted Moisturizer Broad Spectrum Beige22        67.23     
+
+Total: 5554.6
+==================================================
+Order ID: 9240
+Order Failed
+
+==================================================
+Order ID: 9241
+Order Failed
+
+==================================================
+Order ID: 9242
+Order Failed
+
+==================================================
+Order ID: 9243
+Order Failed
+
+==================================================
+Order ID: 9244
+Order Failed
+
+==================================================
+Order ID: 9245
+Customer Name: Jaime McEntegart
+Address: 12 Claremont Lane, Lordegān, Arizona, 85210, United States
+Phone Number: 120-789-2376
+
+Items:
+Item                                    Quantity  Price     
+FEXOFENADINE HYDROCHLORIDE              27        58.98     
+Severe Congestion and Cough             37        88.56     
+levalbuterol hydrochloride              32        42.0      
+Childrens Allergy Relief                11        81.52     
+
+Total: 7109.900000000001
+==================================================
+Order ID: 9246
+Order Failed
+
+==================================================
+Order ID: 9247
+Order Failed
+
+==================================================
+Order ID: 9248
+Customer Name: Rani Pagelsen
+Address: 4 Leroy Avenue, Yambrasbamba, Arizona, 85210, United States
+Phone Number: 796-494-3893
+
+Items:
+Item                                    Quantity  Price     
+Imodium AD                              38        87.82     
+Hydrochlorothiazide                     34        64.92     
+Methylprednisolone Sodium Succinate     6         36.84     
+Fulton Street Market Omeprazole         10        45.71     
+Nighttime Sleep Aid                     38        57.32     
+
+Total: 8400.740000000002
+==================================================
+Order ID: 9249
+Order Failed
+
+==================================================
+Order ID: 9250
+Order Failed
+
+==================================================
+Order ID: 9251
+Customer Name: Loren Barszczewski
+Address: 310 Crest Line Park, Yegorlykskaya, Arizona, 85210, United States
+Phone Number: 754-402-8558
+
+Items:
+Item                                    Quantity  Price     
+POPULUS DELTOIDES SSP MONILIFERA POLLEN 12        46.73     
+CALCIUM ACETATE                         5         82.44     
+RETROVIR                                28        85.89     
+
+Total: 3377.88
+==================================================
+Order ID: 9252
+Order Failed
+
+==================================================
+Order ID: 9253
+Customer Name: Gussy Yurkevich
+Address: 0224 Browning Point, Hotonj, Arizona, 85207, United States
+Phone Number: 348-936-7510
+
+Items:
+Item                                    Quantity  Price     
+Fulton Street Market Omeprazole         22        45.71     
+Nighttime Sleep Aid                     6         57.32     
+AZITHROMYCIN                            24        84.63     
+Allopurinol                             37        98.85     
+
+Total: 7038.11
+==================================================
+Order ID: 9254
+Order Failed
+
+==================================================
+Order ID: 9255
+Order Failed
+
+==================================================
+Order ID: 9256
+Order Failed
+
+==================================================
+Order ID: 9257
+Order Failed
+
+==================================================
+Order ID: 9258
+Order Failed
+
+==================================================
+Order ID: 9259
+Customer Name: Agustin Pavyer
+Address: 90 Commercial Parkway, Kandava, Arizona, 85209, United States
+Phone Number: 300-576-1179
+
+Items:
+Item                                    Quantity  Price     
+LBEL                                    16        82.86     
+Oxygen                                  21        34.72     
+
+Total: 2054.88
+==================================================
+Order ID: 9260
+Customer Name: Klaus Brayson
+Address: 32204 Bobwhite Place, Bahaodi, Arizona, 85208, United States
+Phone Number: 688-273-6629
+
+Items:
+Item                                    Quantity  Price     
+Medicated Body                          36        56.55     
+Ciprofloxacin Hydrochloride             40        86.38     
+PREDNISONE                              1         79.4      
+Pollens - Grasses, Southern Grass Mix 10th of Concentrate9         73.16     
+
+Total: 6228.839999999999
+==================================================
+Order ID: 9261
+Customer Name: Ree Berkley
+Address: 21 Almo Plaza, Kyshtym, Arizona, 85209, United States
+Phone Number: 840-709-5491
+
+Items:
+Item                                    Quantity  Price     
+procureFirst Aid Antibio                13        97.32     
+
+Total: 1265.1599999999999
+==================================================
+Order ID: 9262
+Order Failed
+
+==================================================
+Order ID: 9263
+Customer Name: Rani Pagelsen
+Address: 4 Leroy Avenue, Yambrasbamba, Arizona, 85210, United States
+Phone Number: 796-494-3893
+
+Items:
+Item                                    Quantity  Price     
+AVAR                                    13        68.38     
+VIDEX                                   27        23.98     
+
+Total: 1536.4
+==================================================
+Order ID: 9264
+Order Failed
+
+==================================================
+Order ID: 9265
+Order Failed
+
+==================================================
+Order ID: 9266
+Order Failed
+
+==================================================
+Order ID: 9267
+Customer Name: Allison Dufoure
+Address: 88 Corscot Terrace, Jevíčko, Arizona, 85207, United States
+Phone Number: 420-281-9121
+
+Items:
+Item                                    Quantity  Price     
+Green Guard Stomach Relief              28        95.36     
+Treatment Set TS342155                  2         95.83     
+Otrexup                                 15        38.45     
+Likewise Facial Moisturizer - Sun Protectant SPF 50 Normal to Oily Skin21        77.75     
+POPULUS DELTOIDES SSP MONILIFERA POLLEN 33        46.73     
+
+Total: 6613.33
+==================================================
+Order ID: 9268
+Order Failed
+
+==================================================
+Order ID: 9269
+Customer Name: Poppy Gerardin
+Address: 0608 Nancy Junction, Cambará, Arizona, 85202, United States
+Phone Number: 183-776-3105
+
+Items:
+Item                                    Quantity  Price     
+Iophen C NR                             26        72.59     
+Omeprazole                              29        22.44     
+Oxycodone and Acetaminophen             24        40.1      
+Bekunis Natures Gentle Laxative Herbal Tea32        52.14     
+Clopidogrel Bisulfate                   17        89.33     
+
+Total: 6687.59
+==================================================
+Order ID: 9270
+Order Failed
+
+==================================================
+Order ID: 9271
+Order Failed
+
+==================================================
+Order ID: 9272
+Order Failed
+
+==================================================
+Order ID: 9273
+Order Failed
+
+==================================================
+Order ID: 9274
+Order Failed
+
+==================================================
+Order ID: 9275
+Customer Name: Ashly Whitebrook
+Address: 68609 Scofield Crossing, Puerto Quijarro, Arizona, 85210, United States
+Phone Number: 617-213-9072
+
+Items:
+Item                                    Quantity  Price     
+ONDANSETRON                             7         25.94     
+
+Total: 181.58
+==================================================
+Order ID: 9276
+Order Failed
+
+==================================================
+Order ID: 9277
+Customer Name: Menard Sothcott
+Address: 9 Thackeray Alley, Gatesville, Arizona, 85202, United States
+Phone Number: 254-997-7319
+
+Items:
+Item                                    Quantity  Price     
+levalbuterol hydrochloride              28        42.0      
+Berberis Prunus                         40        72.62     
+Effer-K                                 34        70.92     
+ONDANSETRON                             29        25.94     
+
+Total: 7244.34
+==================================================
+Order ID: 9278
+Order Failed
+
+==================================================
+Order ID: 9279
+Order Failed
+
+==================================================
+Order ID: 9280
+Customer Name: Joyce Froom
+Address: 63653 Dorton Circle, Independence, Arizona, 85207, United States
+Phone Number: 816-424-4699
+
+Items:
+Item                                    Quantity  Price     
+Neutrogena MoistureShine Lip Soother    5         39.34     
+
+Total: 196.70000000000002
+==================================================
+Order ID: 9281
+Order Failed
+
+==================================================
+Order ID: 9282
+Order Failed
+
+==================================================
+Order ID: 9283
+Order Failed
+
+==================================================
+Order ID: 9284
+Order Failed
+
+==================================================
+Order ID: 9285
+Customer Name: Joyce Froom
+Address: 63653 Dorton Circle, Independence, Arizona, 85207, United States
+Phone Number: 816-424-4699
+
+Items:
+Item                                    Quantity  Price     
+Neuro                                   33        64.77     
+Cartilago Argentum Joint Support        6         74.52     
+Ampicillin                              5         69.79     
+smart sense allergy and congestion relief13        70.48     
+Promethazine hydrochloride and phenylephrine hydrochloride8         30.31     
+
+Total: 4092.1999999999994
+==================================================
+Order ID: 9286
+Customer Name: Kara Ector
+Address: 88546 Esker Point, Três Coroas, Arizona, 85208, United States
+Phone Number: 601-596-2917
+
+Items:
+Item                                    Quantity  Price     
+Fulton Street Market Omeprazole         30        45.71     
+Chamomilla                              21        48.13     
+
+Total: 2382.0299999999997
+==================================================
+Order ID: 9287
+Customer Name: Menard Sothcott
+Address: 9 Thackeray Alley, Gatesville, Arizona, 85202, United States
+Phone Number: 254-997-7319
+
+Items:
+Item                                    Quantity  Price     
+Triglide                                1         96.02     
+
+Total: 96.02
+==================================================
+Order ID: 9288
+Order Failed
+
+==================================================
+Order ID: 9289
+Order Failed
+
+==================================================
+Order ID: 9290
+Customer Name: Rik Brough
+Address: 68767 Fallview Point, Kanal, Arizona, 85201, United States
+Phone Number: 771-483-8135
+
+Items:
+Item                                    Quantity  Price     
+Kettle Neti Pot                         1         91.47     
+PREZISTA                                13        75.99     
+Nighttime Sleep Aid                     34        57.32     
+SaniSuds Foam Instant Hand Sanitizer    32        93.02     
+
+Total: 6004.860000000001
+==================================================
+Order ID: 9291
+Customer Name: Conni Kimmerling
+Address: 1415 Ridgeway Trail, Dungkek Laok, Arizona, 85205, United States
+Phone Number: 882-276-9260
+
+Items:
+Item                                    Quantity  Price     
+esika                                   1         53.08     
+Aurum 6                                 14        36.06     
+
+Total: 557.9200000000001
+==================================================
+Order ID: 9292
+Order Failed
+
+==================================================
+Order ID: 9293
+Customer Name: Rurik Mavin
+Address: 2766 Elmside Road, Bojawa, Arizona, 85207, United States
+Phone Number: 271-753-2037
+
+Items:
+Item                                    Quantity  Price     
+Clopidogrel Bisulfate                   36        89.33     
+Nighttime Sleep Aid                     23        57.32     
+ONDANSETRON                             8         25.94     
+
+Total: 4741.76
+==================================================
+Order ID: 9294
+Order Failed
+
+==================================================
+Order ID: 9295
+Order Failed
+
+==================================================
+Order ID: 9296
+Customer Name: Fernanda Inns
+Address: 9532 Daystar Park, Sidoaji, Arizona, 85210, United States
+Phone Number: 926-409-0198
+
+Items:
+Item                                    Quantity  Price     
+levalbuterol hydrochloride              22        42.0      
+Imodium AD                              1         87.82     
+
+Total: 1011.8199999999999
+==================================================
+Order ID: 9297
+Order Failed
+
+==================================================
+Order ID: 9298
+Order Failed
+
+==================================================
+Order ID: 9299
+Customer Name: Ermina Guilder
+Address: 009 Kedzie Circle, Sitovo, Arizona, 85209, United States
+Phone Number: 244-598-6246
+
+Items:
+Item                                    Quantity  Price     
+Oxygen                                  9         34.72     
+Amiodarone HCl                          10        82.51     
+
+Total: 1137.58
+==================================================
+Order ID: 9300
+Customer Name: Ivory Pickhaver
+Address: 28 Bayside Road, Loivos, Arizona, 85203, United States
+Phone Number: 465-552-6134
+
+Items:
+Item                                    Quantity  Price     
+Ditropan                                19        41.81     
+
+Total: 794.3900000000001
+==================================================
+Order ID: 9301
+Customer Name: Loren Barszczewski
+Address: 310 Crest Line Park, Yegorlykskaya, Arizona, 85210, United States
+Phone Number: 754-402-8558
+
+Items:
+Item                                    Quantity  Price     
+Lyrica                                  21        24.73     
+POPULUS DELTOIDES SSP MONILIFERA POLLEN 15        46.73     
+
+Total: 1220.28
+==================================================
+Order ID: 9302
+Customer Name: Kara Ector
+Address: 88546 Esker Point, Três Coroas, Arizona, 85208, United States
+Phone Number: 601-596-2917
+
+Items:
+Item                                    Quantity  Price     
+Oxygen                                  19        34.72     
+PREZISTA                                6         75.99     
+Imodium AD                              20        87.82     
+
+Total: 2872.0199999999995
+==================================================
+Order ID: 9303
+Order Failed
+
+==================================================
+Order ID: 9304
+Customer Name: Rani Pagelsen
+Address: 4 Leroy Avenue, Yambrasbamba, Arizona, 85210, United States
+Phone Number: 796-494-3893
+
+Items:
+Item                                    Quantity  Price     
+Amiodarone HCl                          25        82.51     
+Cartilago Argentum Joint Support        3         74.52     
+Top Care                                32        87.06     
+Pioglitazone Hydrochloride and Metformin Hydrochloride26        47.62     
+Oxycodone and Acetaminophen             15        40.1      
+
+Total: 6911.849999999999
+==================================================
+Order ID: 9305
+Order Failed
+
+==================================================
+Order ID: 9306
+Order Failed
+
+==================================================
+Order ID: 9307
+Order Failed
+
+==================================================
+Order ID: 9308
+Order Failed
+
+==================================================
+Order ID: 9309
+Customer Name: Cassy Andrich
+Address: 7792 Bartillon Lane, Barakani, Arizona, 85207, United States
+Phone Number: 331-942-1318
+
+Items:
+Item                                    Quantity  Price     
+ADRENAL ENERGY                          30        77.1      
+PREDNISONE                              2         79.4      
+PULLULARIA PULLULANS                    31        57.7      
+Chamomilla                              21        48.13     
+Hydrochlorothiazide                     39        25.14     
+
+Total: 6251.69
+==================================================
+Order ID: 9310
+Order Failed
+
+==================================================
+Order ID: 9311
+Order Failed
+
+==================================================
+Order ID: 9312
+Customer Name: Panchito Matz
+Address: 87246 Riverside Lane, Antalaha, Arizona, 85210, United States
+Phone Number: 901-917-0708
+
+Items:
+Item                                    Quantity  Price     
+Indomethacin                            10        26.34     
+
+Total: 263.4
+==================================================
+Order ID: 9313
+Order Failed
+
+==================================================
+Order ID: 9314
+Customer Name: Ulrike Haryngton
+Address: 66 Sunfield Trail, Paty do Alferes, Arizona, 85204, United States
+Phone Number: 930-765-1578
+
+Items:
+Item                                    Quantity  Price     
+Clindamycin in 5 Percent Dextrose       4         54.5      
+Sulwhasoo                               8         96.91     
+
+Total: 993.28
+==================================================
+Order ID: 9315
+Customer Name: Horace Chillingworth
+Address: 93098 Birchwood Avenue, Anqing, Arizona, 85201, United States
+Phone Number: 699-670-1287
+
+Items:
+Item                                    Quantity  Price     
+Methylprednisolone Sodium Succinate     20        36.84     
+
+Total: 736.8000000000001
+==================================================
+Order ID: 9316
+Order Failed
+
+==================================================
+Order ID: 9317
+Customer Name: Sharron Mackriell
+Address: 04 Melody Crossing, Ustupo, Arizona, 85205, United States
+Phone Number: 918-659-5831
+
+Items:
+Item                                    Quantity  Price     
+Liothyronine sodium                     21        87.5      
+Treatment Set TS329161                  12        72.0      
+
+Total: 2701.5
+==================================================
+Order ID: 9318
+Customer Name: Joyce Froom
+Address: 63653 Dorton Circle, Independence, Arizona, 85207, United States
+Phone Number: 816-424-4699
+
+Items:
+Item                                    Quantity  Price     
+PREZISTA                                20        75.99     
+Amazonian Colored Clay Foundation Broad Spectrum SPF 15 Sunscreen34        54.56     
+ESTRADIOL VALERATE                      14        87.55     
+Ciprofloxacin Hydrochloride             12        86.38     
+Treatment Set TS329161                  18        72.0      
+
+Total: 6933.1
+==================================================
+Order ID: 9319
+Order Failed
+
+==================================================
+Order ID: 9320
+Customer Name: Ossie Tryhorn
+Address: 030 Pawling Junction, Inowrocław, Arizona, 85203, United States
+Phone Number: 632-726-3510
+
+Items:
+Item                                    Quantity  Price     
+CALCIUM ACETATE                         13        82.44     
+Childrens Allergy Relief                7         81.52     
+ESTRADIOL VALERATE                      30        87.55     
+Famciclovir                             7         26.94     
+Tylenol Arthritis Pain                  35        84.76     
+
+Total: 7424.040000000001
+==================================================
+Order ID: 9321
+Order Failed
+
+==================================================
+Order ID: 9322
+Order Failed
+
+==================================================
+Order ID: 9323
+Customer Name: Rik Brough
+Address: 68767 Fallview Point, Kanal, Arizona, 85201, United States
+Phone Number: 771-483-8135
+
+Items:
+Item                                    Quantity  Price     
+Sulwhasoo                               12        96.91     
+Severe Congestion and Cough             21        88.56     
+Alcohol Prep Pad                        20        40.51     
+Day Time Night Time Sinus Relief        33        52.6      
+
+Total: 5568.68
+==================================================
+Order ID: 9324
+Order Failed
+
+==================================================
+Order ID: 9325
+Customer Name: Georgena Howlett
+Address: 784 Lyons Hill, Hodošan, Arizona, 85205, United States
+Phone Number: 893-405-2652
+
+Items:
+Item                                    Quantity  Price     
+FEXOFENADINE HYDROCHLORIDE              20        58.98     
+Neutrogena MoistureShine Lip Soother    24        39.34     
+Treatment Set TS333177                  30        46.44     
+RETROVIR                                27        85.89     
+No7 Lift and Luminate Foundation Sunscreen Broad Spectrum SPF 15 Cool Vanilla35        87.12     
+
+Total: 8885.19
+==================================================
+Order ID: 9326
+Customer Name: Horace Chillingworth
+Address: 93098 Birchwood Avenue, Anqing, Arizona, 85201, United States
+Phone Number: 699-670-1287
+
+Items:
+Item                                    Quantity  Price     
+Iophen C NR                             33        72.59     
+PREZISTA                                6         75.99     
+Methylprednisolone Sodium Succinate     19        36.84     
+Ditropan                                24        41.81     
+Nizatidine                              34        62.38     
+
+Total: 6675.7300000000005
+==================================================
+Order ID: 9327
+Order Failed
+
+==================================================
+Order ID: 9328
+Customer Name: Natividad Sheavills
+Address: 47323 Canary Avenue, Sijiu, Arizona, 85201, United States
+Phone Number: 524-869-5077
+
+Items:
+Item                                    Quantity  Price     
+Saltbush                                39        82.8      
+Duloxetine                              4         67.8      
+Methylprednisolone Sodium Succinate     5         36.84     
+Top Care                                37        87.06     
+AVAR                                    11        68.38     
+
+Total: 7658.0
+==================================================
+Order ID: 9329
+Order Failed
+
+==================================================
+Order ID: 9330
+Order Failed
+
+==================================================
+Order ID: 9331
+Customer Name: Floyd Copplestone
+Address: 2 Roth Drive, Azovo, Arizona, 85202, United States
+Phone Number: 143-109-4326
+
+Items:
+Item                                    Quantity  Price     
+Hydrochlorothiazide                     10        25.14     
+Neuro                                   23        64.77     
+Effer-K                                 32        70.92     
+Effer-K                                 9         70.92     
+Paclitaxel                              22        23.2      
+
+Total: 5159.23
+==================================================
+Order ID: 9332
+Customer Name: Ernesta Dinning
+Address: 82 Dapin Trail, Srokowo, Arizona, 85210, United States
+Phone Number: 453-887-2326
+
+Items:
+Item                                    Quantity  Price     
+Top Care                                17        87.06     
+Thiola                                  37        41.13     
+No7 Lift and Luminate Foundation Sunscreen Broad Spectrum SPF 15 Cool Vanilla33        87.12     
+Neutrogena MoistureShine Lip Soother    22        39.34     
+Pollens - Grasses, Southern Grass Mix 10th of Concentrate38        73.16     
+
+Total: 9522.35
+==================================================
+Order ID: 9333
+Order Failed
+
+==================================================
+Order ID: 9334
+Order Failed
+
+==================================================
+Order ID: 9335
+Order Failed
+
+==================================================
+Order ID: 9336
+Customer Name: Corissa Alten
+Address: 69655 Tony Avenue, Karangboyo, Arizona, 85205, United States
+Phone Number: 290-619-9067
+
+Items:
+Item                                    Quantity  Price     
+ETHYL ALCOHOL                           5         74.18     
+Nighttime Sleep Aid                     34        57.32     
+Childrens Allergy Relief                5         81.52     
+
+Total: 2727.38
+==================================================
+Order ID: 9337
+Order Failed
+
+==================================================
+Order ID: 9338
+Order Failed
+
+==================================================
+Order ID: 9339
+Order Failed
+
+==================================================
+Order ID: 9340
+Customer Name: Horace Chillingworth
+Address: 93098 Birchwood Avenue, Anqing, Arizona, 85201, United States
+Phone Number: 699-670-1287
+
+Items:
+Item                                    Quantity  Price     
+Green Guard Stomach Relief              9         95.36     
+Hydrochlorothiazide                     18        64.92     
+Otrexup                                 1         38.45     
+Green Guard Stomach Relief              2         95.36     
+
+Total: 2255.97
+==================================================
+Order ID: 9341
+Order Failed
+
+==================================================
+Order ID: 9342
+Customer Name: Virginia Oller
+Address: 83 Meadow Ridge Alley, San Francisco, Arizona, 85204, United States
+Phone Number: 562-977-1363
+
+Items:
+Item                                    Quantity  Price     
+Duloxetine                              19        67.8      
+Clonidine                               31        82.76     
+Illusion Tinted Moisturizer Broad Spectrum Beige27        67.23     
+
+Total: 5668.97
+==================================================
+Order ID: 9343
+Customer Name: Montague Dran
+Address: 285 Toban Place, Jinji, Arizona, 85208, United States
+Phone Number: 288-840-9315
+
+Items:
+Item                                    Quantity  Price     
+Metronidazole                           32        61.23     
+
+Total: 1959.36
+==================================================
+Order ID: 9344
+Order Failed
+
+==================================================
+Order ID: 9345
+Order Failed
+
+==================================================
+Order ID: 9346
+Order Failed
+
+==================================================
+Order ID: 9347
+Order Failed
+
+==================================================
+Order ID: 9348
+Order Failed
+
+==================================================
+Order ID: 9349
+Customer Name: Jeffrey Iwanczyk
+Address: 228 Jackson Court, Ḑawrān ad Daydah, Arizona, 85206, United States
+Phone Number: 149-626-3646
+
+Items:
+Item                                    Quantity  Price     
+LBEL                                    22        82.86     
+Treatment Set TS333177                  25        46.44     
+
+Total: 2983.92
+==================================================
+Order ID: 9350
+Customer Name: Berkeley Letson
+Address: 73 Mcguire Hill, Mallow, Arizona, 85204, United States
+Phone Number: 751-735-3395
+
+Items:
+Item                                    Quantity  Price     
+Hydrochlorothiazide                     14        64.92     
+Omeprazole                              26        22.44     
+Ciprofloxacin Hydrochloride             26        86.38     
+PREZISTA                                30        75.99     
+
+Total: 6017.9
+==================================================
+Order ID: 9351
+Order Failed
+
+==================================================
+Order ID: 9352
+Customer Name: Rurik Mavin
+Address: 2766 Elmside Road, Bojawa, Arizona, 85207, United States
+Phone Number: 271-753-2037
+
+Items:
+Item                                    Quantity  Price     
+2 Pack Assured Instant Hand Sanitizer with moisturizers (Vitamin E and aloe)20        76.62     
+
+Total: 1532.4
+==================================================
+Order ID: 9353
+Order Failed
+
+==================================================
+Order ID: 9354
+Order Failed
+
+==================================================
+Order ID: 9355
+Order Failed
+
+==================================================
+Order ID: 9356
+Customer Name: Dix Genever
+Address: 37 Dixon Park, Wanshan, Arizona, 85205, United States
+Phone Number: 775-135-7679
+
+Items:
+Item                                    Quantity  Price     
+PREZISTA                                31        75.99     
+Liothyronine sodium                     20        87.5      
+Cold Sore Treatment                     14        62.53     
+Imodium AD                              25        87.82     
+Allopurinol                             12        98.85     
+
+Total: 8362.810000000001
+==================================================
+Order ID: 9357
+Order Failed
+
+==================================================
+Order ID: 9358
+Order Failed
+
+==================================================
+Order ID: 9359
+Customer Name: Teddy Colbourn
+Address: 85 Hollow Ridge Drive, Puor, Arizona, 85205, United States
+Phone Number: 358-506-8379
+
+Items:
+Item                                    Quantity  Price     
+ONDANSETRON                             17        25.94     
+ETHYL ALCOHOL                           22        74.18     
+Illusion Tinted Moisturizer Broad Spectrum Beige7         67.23     
+Pumpkin Spice Antibacterial Hand Sanitizer40        41.94     
+PREZISTA                                36        75.99     
+
+Total: 6956.789999999999
+==================================================
+Order ID: 9360
+Customer Name: Georgena Howlett
+Address: 784 Lyons Hill, Hodošan, Arizona, 85205, United States
+Phone Number: 893-405-2652
+
+Items:
+Item                                    Quantity  Price     
+Midazolam Hydrochloride                 37        65.02     
+Fulton Street Market Omeprazole         3         45.71     
+Neutrogena MoistureShine Lip Soother    31        39.34     
+Medicated Body                          40        56.55     
+
+Total: 6024.41
+==================================================
+Order ID: 9361
+Order Failed
+
+==================================================
+Order ID: 9362
+Order Failed
+
+==================================================
+Order ID: 9363
+Customer Name: Kenton Woffinden
+Address: 77727 Bluejay Parkway, Strellc i Ulët, Arizona, 85210, United States
+Phone Number: 356-582-6841
+
+Items:
+Item                                    Quantity  Price     
+Triglide                                28        96.02     
+Metronidazole                           23        61.23     
+Promethazine hydrochloride and phenylephrine hydrochloride1         30.31     
+Childrens Allergy Relief                35        81.52     
+Tylenol Arthritis Pain                  22        84.76     
+
+Total: 8845.08
+==================================================
+Order ID: 9364
+Order Failed
+
+==================================================
+Order ID: 9365
+Customer Name: Joyce Froom
+Address: 63653 Dorton Circle, Independence, Arizona, 85207, United States
+Phone Number: 816-424-4699
+
+Items:
+Item                                    Quantity  Price     
+Tylenol Arthritis Pain                  16        84.76     
+
+Total: 1356.16
+==================================================
+Order ID: 9366
+Order Failed
+
+==================================================
+Order ID: 9367
+Order Failed
+
+==================================================
+Order ID: 9368
+Order Failed
+
+==================================================
+Order ID: 9369
+Order Failed
+
+==================================================
+Order ID: 9370
+Order Failed
+
+==================================================
+Order ID: 9371
+Customer Name: Anatole Colbran
+Address: 48352 Buena Vista Point, Rutana, Arizona, 85206, United States
+Phone Number: 403-345-2958
+
+Items:
+Item                                    Quantity  Price     
+RETROVIR                                32        85.89     
+Treatment Set TS329161                  13        72.0      
+Lyrica                                  32        24.73     
+
+Total: 4475.84
+==================================================
+Order ID: 9372
+Order Failed
+
+==================================================
+Order ID: 9373
+Order Failed
+
+==================================================
+Order ID: 9374
+Customer Name: Quinn Chantler
+Address: 4 Larry Place, Hafnarfjörður, Arizona, 85208, United States
+Phone Number: 785-317-5228
+
+Items:
+Item                                    Quantity  Price     
+Green Guard Stomach Relief              11        95.36     
+
+Total: 1048.96
+==================================================
+Order ID: 9375
+Order Failed
+
+==================================================
+Order ID: 9376
+Customer Name: Jannel Couvert
+Address: 1 Linden Drive, Stoszowice, Arizona, 85202, United States
+Phone Number: 644-685-5894
+
+Items:
+Item                                    Quantity  Price     
+Kettle Neti Pot                         3         91.47     
+Medicated Body                          27        56.55     
+
+Total: 1801.2599999999998
+==================================================
+Order ID: 9377
+Customer Name: Anselma Payze
+Address: 54 Thackeray Point, Hartford, Arizona, 85206, United States
+Phone Number: 860-694-7115
+
+Items:
+Item                                    Quantity  Price     
+Nighttime Sleep Aid                     10        57.32     
+
+Total: 573.2
+==================================================
+Order ID: 9378
+Order Failed
+
+==================================================
+Order ID: 9379
+Order Failed
+
+==================================================
+Order ID: 9380
+Order Failed
+
+==================================================
+Order ID: 9381
+Order Failed
+
+==================================================
+Order ID: 9382
+Order Failed
+
+==================================================
+Order ID: 9383
+Customer Name: Ammamaria Fidilis
+Address: 97460 Village Place, Bugang, Arizona, 85208, United States
+Phone Number: 749-364-4539
+
+Items:
+Item                                    Quantity  Price     
+Green Guard Stomach Relief              18        95.36     
+levalbuterol hydrochloride              14        42.0      
+Testosterone Cypionate                  31        99.26     
+Pioglitazone Hydrochloride and Metformin Hydrochloride15        47.62     
+Sulwhasoo                               17        96.91     
+
+Total: 7743.31
+==================================================
+Order ID: 9384
+Order Failed
+
+==================================================
+Order ID: 9385
+Customer Name: Gareth Burnyeat
+Address: 1 Westend Hill, Pasirmadang, Arizona, 85206, United States
+Phone Number: 358-464-1709
+
+Items:
+Item                                    Quantity  Price     
+Treatment Set TS342155                  14        95.83     
+
+Total: 1341.62
+==================================================
+Order ID: 9386
+Customer Name: Leisha Troucher
+Address: 602 Old Gate Park, Néos Mylótopos, Arizona, 85207, United States
+Phone Number: 275-433-7259
+
+Items:
+Item                                    Quantity  Price     
+Pumpkin Spice Antibacterial Hand Sanitizer11        41.94     
+Nizatidine                              19        62.38     
+Midazolam Hydrochloride                 4         65.02     
+Metronidazole                           31        74.74     
+Ditropan                                30        41.81     
+
+Total: 5477.88
+==================================================
+Order ID: 9387
+Order Failed
+
+==================================================
+Order ID: 9388
+Customer Name: Vanna Brough
+Address: 234 Comanche Place, Obudu, Arizona, 85203, United States
+Phone Number: 663-570-6928
+
+Items:
+Item                                    Quantity  Price     
+AVAR                                    35        68.38     
+Hydrocortisone                          34        95.14     
+Neutrogena MoistureShine Lip Soother    20        39.34     
+
+Total: 6414.86
+==================================================
+Order ID: 9389
+Order Failed
+
+==================================================
+Order ID: 9390
+Order Failed
+
+==================================================
+Order ID: 9391
+Order Failed
+
+==================================================
+Order ID: 9392
+Order Failed
+
+==================================================
+Order ID: 9393
+Order Failed
+
+==================================================
+Order ID: 9394
+Order Failed
+
+==================================================
+Order ID: 9395
+Customer Name: Klaus Brayson
+Address: 32204 Bobwhite Place, Bahaodi, Arizona, 85208, United States
+Phone Number: 688-273-6629
+
+Items:
+Item                                    Quantity  Price     
+LBEL                                    16        82.86     
+Treatment Set TS333177                  29        46.44     
+SaniSuds Foam Instant Hand Sanitizer    3         93.02     
+Thiola                                  7         41.13     
+ESTRADIOL VALERATE                      1         87.55     
+
+Total: 3327.04
+==================================================
+Order ID: 9396
+Order Failed
+
+==================================================
+Order ID: 9397
+Customer Name: Penrod Meeland
+Address: 1 Hallows Parkway, Layu, Arizona, 85210, United States
+Phone Number: 718-385-7434
+
+Items:
+Item                                    Quantity  Price     
+PULLULARIA PULLULANS                    18        57.7      
+AZITHROMYCIN                            7         84.63     
+Hydrochlorothiazide                     33        64.92     
+Omeprazole                              7         22.44     
+Nizatidine                              9         62.38     
+
+Total: 4491.870000000001
+==================================================
+Order ID: 9398
+Order Failed
+
+==================================================
+Order ID: 9399
+Customer Name: Gareth Burnyeat
+Address: 1 Westend Hill, Pasirmadang, Arizona, 85206, United States
+Phone Number: 358-464-1709
+
+Items:
+Item                                    Quantity  Price     
+Amazonian Colored Clay Foundation Broad Spectrum SPF 15 Sunscreen16        54.56     
+Ciprofloxacin Hydrochloride             12        86.38     
+
+Total: 1909.52
+==================================================

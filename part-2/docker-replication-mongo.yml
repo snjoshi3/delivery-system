@@ -1,0 +1,52 @@
+version: '3'
+
+services:
+  mongos:
+    image: mongo
+    command: mongos --configdb cfgsvr/cfgsvr:27019 --port 27020
+    ports:
+      - 27020:27020
+    depends_on:
+      - cfgsvr
+
+  cfgsvr:
+    image: mongo:4.4.0-bionic
+    command: mongod --replSet cfgsvr --configsvr --port 27019
+    ports:
+      - 27019:27019
+    healthcheck:
+      test: ["CMD", "mongo", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 10s
+      retries: 3
+
+  shard1svr:
+    image: mongo
+    command: mongod --replSet shard1 --shardsvr --port 27018
+    ports:
+      - 27018:27018
+
+  shard2svr:
+    image: mongo
+    command: mongod --replSet shard2 --shardsvr --port 27017
+    ports:
+      - 27017:27017
+
+  setupshards:
+    image: python:3.7
+    depends_on:
+      - mongos
+    volumes:
+      - ./setup-shards.py:/setup-shards.py
+    command: python /setup-shards.py
+
+  init-replica:
+    image: mongo:4.4.0-bionic
+    depends_on:
+      cfgsvr:
+        condition: service_healthy
+    command: >
+      bash -c "
+        sleep 5
+        echo 'rs.initiate({_id: \"cfgsvr\", configsvr: true, members: [{ _id : 0, host : \"cfgsvr:27019\" }]})' | mongo --host cfgsvr --port 27019
+      "

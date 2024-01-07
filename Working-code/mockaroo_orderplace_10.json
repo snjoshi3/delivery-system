@@ -1,0 +1,10 @@
+[{"customer_id":62,"zip_code":85205,"items":[{"med_id":45,"quantity":18},{"med_id":18,"quantity":24},{"med_id":34,"quantity":22},{"med_id":47,"quantity":1}]},
+{"customer_id":84,"zip_code":85209,"items":[{"med_id":64,"quantity":21},{"med_id":50,"quantity":27},{"med_id":31,"quantity":38}]},
+{"customer_id":23,"zip_code":85206,"items":[{"med_id":100,"quantity":2},{"med_id":53,"quantity":8}]},
+{"customer_id":61,"zip_code":85200,"items":[{"med_id":81,"quantity":2},{"med_id":62,"quantity":17},{"med_id":68,"quantity":32},{"med_id":20,"quantity":39},{"med_id":88,"quantity":8}]},
+{"customer_id":32,"zip_code":85205,"items":[{"med_id":51,"quantity":20},{"med_id":20,"quantity":16},{"med_id":25,"quantity":3},{"med_id":94,"quantity":32},{"med_id":26,"quantity":29}]},
+{"customer_id":5,"zip_code":85202,"items":[{"med_id":9,"quantity":7}]},
+{"customer_id":72,"zip_code":85204,"items":[{"med_id":10,"quantity":19},{"med_id":80,"quantity":8},{"med_id":68,"quantity":37},{"med_id":31,"quantity":2},{"med_id":1,"quantity":18}]},
+{"customer_id":56,"zip_code":85205,"items":[{"med_id":92,"quantity":13},{"med_id":73,"quantity":8},{"med_id":9,"quantity":24}]},
+{"customer_id":76,"zip_code":85207,"items":[{"med_id":75,"quantity":11}]},
+{"customer_id":82,"zip_code":85200,"items":[{"med_id":28,"quantity":5}]}]
